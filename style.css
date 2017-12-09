@@ -83,14 +83,16 @@ h2 {
     width: 80%;
     margin-bottom: 40px;
     border-radius: 1%;
-    word-spacing: 0.03em;
+    word-spacing: 0.05em;
     font-size: 16px;
-    line-height: 1.4em;
+    line-height: 1.5em;
     background-color: white;
+ 
 }
 
 .inner-tab ,
-#summary section{
+#summary section,
+#incorporation section {
     padding: 10px;
     margin-bottom: 30px;
     border-bottom: 2px solid #f1f1f1;
@@ -107,6 +109,7 @@ h2 {
 .inner-tab p {
     width: 55%;
     float: left;
+    
 }
 
 .inner-tab img {
